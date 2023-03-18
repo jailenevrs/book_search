@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/jailenevrs/reactPortfolio.git/static/css/main.ec652844.css",
+    "main.js": "/jailenevrs/reactPortfolio.git/static/js/main.24cbe0b6.js",
+    "static/js/787.28cb0dcd.chunk.js": "/jailenevrs/reactPortfolio.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Weather.png": "/jailenevrs/reactPortfolio.git/static/media/Weather.596e70b9fcbfd55d68c5.png",
+    "static/media/Fitness.png": "/jailenevrs/reactPortfolio.git/static/media/Fitness.aaab0d129db99dd315ac.png",
+    "static/media/Cocktails.png": "/jailenevrs/reactPortfolio.git/static/media/Cocktails.1eedb2e6b4b9ce8ee11a.png",
+    "static/media/Password.png": "/jailenevrs/reactPortfolio.git/static/media/Password.005e862e7ad511fc0d0e.png",
+    "static/media/resume.jpeg": "/jailenevrs/reactPortfolio.git/static/media/resume.dee1a350470560bc26fe.jpeg",
+    "static/media/avi.jpeg": "/jailenevrs/reactPortfolio.git/static/media/avi.78770b586417e3bcf750.jpeg",
+    "index.html": "/jailenevrs/reactPortfolio.git/index.html",
+    "main.ec652844.css.map": "/jailenevrs/reactPortfolio.git/static/css/main.ec652844.css.map",
+    "main.24cbe0b6.js.map": "/jailenevrs/reactPortfolio.git/static/js/main.24cbe0b6.js.map",
+    "787.28cb0dcd.chunk.js.map": "/jailenevrs/reactPortfolio.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec652844.css",
+    "static/js/main.24cbe0b6.js"
+  ]
+}
